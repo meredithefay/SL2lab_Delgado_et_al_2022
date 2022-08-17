@@ -40,7 +40,7 @@ Outputs include:
 These outputs are organized in a new analysis directory, located in the directory of the file selected.
 
 ## Help and contributing
-Contributions are always welcome! Submit a pull request, contact me directly at meredith.e.fay@gmail.com, or contact the SL2 lab coding team directly at myers.sl2.lab@gmail.com. Please also feel free to reach out via email for assistance. The SL2 lab is happy to provide detailed experimental methods upon request.
+Contributions are always welcome! Submit a pull request, contact me directly at mfay7@gatech.edu, or contact the SL2 lab coding team directly at myers.sl2.lab@gmail.com. Please also feel free to reach out via email for assistance. The SL2 lab is happy to provide detailed experimental methods upon request.
 
 ## References
 OpenCV:
