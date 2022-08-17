@@ -5,7 +5,7 @@ Script dot_quant_intensity is designed to analyze intensity of interconnected re
 
 Script created for the Sensors for Living Systems lab (SL2) lead by David Myers, PhD, based at the Wallace H. Coulter department of Biomedical Engineering at Georgia Institute of Technology and Emory University
 
-My contribution to this manuscript: conceived of data analysis methods, wrote script, performed analysis.
+My authorship contribution: conceived of data analysis methods, wrote script, performed analysis.
 
 ## Inputs, methods, outputs
 
